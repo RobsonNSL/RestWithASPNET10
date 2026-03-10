@@ -1,0 +1,10 @@
+﻿namespace RestWithASPNET10.DTO.V1
+{
+    public class PersonDTO
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Address { get; set; }
+    }
+}

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using RestWithASPNET10.Model;
 
-namespace RestWithASPNET10.Controllers
+namespace RestWithASPNET10.Controllers.V1
 {
     [ApiController]
     [Route("[controller]")]

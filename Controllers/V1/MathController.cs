@@ -2,7 +2,7 @@
 using RestWithASPNET10.Service;
 using RestWithASPNET10.Utils;
 
-namespace RestWithASPNET10.Controllers
+namespace RestWithASPNET10.Controllers.V1
 {
     [ApiController]
     [Route("[controller]")]
